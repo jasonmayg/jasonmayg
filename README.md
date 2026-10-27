@@ -1,6 +1,6 @@
 ### Hi, I'm Jason 👋
 
-**AI Product Manager who builds.** I've taken products from zero to scale as a founder, a VP and a head of business. Now I build AI products for high-stakes decisions that have to be auditable, and I prototype them myself so the conversation starts from something real.
+**AI Product Manager who builds.** I like turning messy, high-stakes decisions into AI products people can actually trust — and I prototype them myself so the product conversation starts from something real.
 
 ---
 
@@ -22,8 +22,3 @@ Also: [Earth Civilization Chronicle](https://github.com/jasonmayg/earth-civiliza
 - **Start from the decision, not the model.** What will the user do differently after seeing this?
 - **Make AI auditable.** Let the LLM propose and an inspectable framework decide; log cost and quality per call.
 - **Measure whether it works for *this* user.** Evaluate the product experience, not just model accuracy.
-
-#### Toolbox
-
-`Product` PRDs · metrics design · A/B test design · LLM evaluation · prompt design
-`Build` Python · JavaScript · Flask · Streamlit · OpenAI / Claude APIs · RAG · SQL
