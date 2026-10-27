@@ -2,8 +2,6 @@
 
 **AI Product Manager who builds.** I've taken products from zero to scale as a founder, a VP and a head of business. Now I build AI products for high-stakes decisions that have to be auditable, and I prototype them myself so the conversation starts from something real.
 
-- 🧭 Looking for full-time **AI Product Manager** roles
-
 ---
 
 #### Featured projects
